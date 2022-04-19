@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@700;900&display=swap");
+:root {
+  /*Color*/
+  --soft-red: hsl(7, 99%, 70%);
+  --yellow: hsl(51, 100%, 49%);
+  --dark-wash-cyan: hsl(167, 40%, 24%);
+  --dark-blue: hsl(198, 62%, 26%);
+  --lgt-wash-green: hsl(168, 34%, 41%);
+  --wash-blue-900: hsl(212, 27%, 19%);
+  --dark-greyblue-900: hsl(213, 9%, 39%);
+  --greyblue: hsl(210, 4%, 67%);
+  --acc: hsl(167, 31%, 83%);
+ /*Font*/
+  --ff-default: "Barlow", sans-serif;
+  --ff-display:"Fraunces", sans-serif;
+  --fw-reg: 600;
+  --fw-semi: 700;
+  --fw-bold: 900;
+}
